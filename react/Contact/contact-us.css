@@ -1,0 +1,61 @@
+.bg-purple {
+  background: linear-gradient(
+    to right,
+    rgb(113, 115, 158),
+    rgb(65, 64, 113),
+    rgb(35, 32, 85)
+  );
+}
+.question-box {
+  text-align: center;
+  margin-bottom: 0px;
+  color: white;
+  margin-left: 29px;
+}
+.contact-us-title {
+  color: white;
+  margin-bottom: 30px;
+}
+
+.vl {
+  border-left: 2px solid white;
+  height: 150px;
+
+  left: 20px;
+}
+
+.vl > p {
+  margin-top: 15px;
+}
+.vl > img {
+  width: 75px;
+  height: 75px;
+}
+
+.email-box {
+  width: 900px;
+  margin-left: 27%;
+  bottom: 40px;
+  background: linear-gradient(
+    to right,
+    rgb(113, 115, 158),
+    rgb(65, 64, 113),
+    rgb(35, 32, 85)
+  );
+  padding: 8px 16px !important;
+}
+.form-control,
+.form-control:focus {
+  background-color: white;
+  color: black;
+}
+.contact-us-label {
+  color: rgb(255, 195, 18);
+  font-size: 15px;
+}
+
+#submitBtn {
+  margin-left: 44%;
+
+  width: fit-content;
+}

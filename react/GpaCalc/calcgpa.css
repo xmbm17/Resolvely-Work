@@ -1,0 +1,94 @@
+.gpa-container {
+  justify-content: center;
+  margin-bottom: 50px;
+
+}
+
+.gpa-accordion-container {
+  margin-top: 20px;
+  width: 100%;
+  position: relative;
+  
+}
+
+.gpa-accordion-body {
+  width: 100%;
+}
+
+.gpa-accordion-inputs {
+  width: 100%;
+  display: flex;
+  gap: 7px;
+  margin-bottom: 10px;
+}
+
+.gpa-submit-btn {
+  margin-top: 15px;
+}
+
+.gpa-total-submit-contianer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.gpa-card {
+  width: 18rem;
+    height: 9rem;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding-top: 20px 
+  
+}
+.gpa-card-body {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+.gpa-card-title {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  color: #2a99eb;
+}
+
+.gpa-card-text {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  margin-left: 20px;
+}
+
+.gpa-error-container {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  width: 710px;
+}
+.gpa-error-messages {
+  width: 80px;
+}
+.gpa-error-messages-width {
+  width: 145px;
+}
+.gpa-updateBtn {
+  width: fit-content;
+  margin-right: 10px;
+  font-size: 14px;
+  padding: 4px 9px !important;
+}
+
+.gpa-pill-gpa {
+  width: fit-content;
+  height: 30px;
+  font-size: 15px;
+  margin-top: 20px;
+}
+
+.gpa-btn-small{
+  font-size: 14px;
+  padding: 4px 9px;
+  margin-right: 10px;
+}
